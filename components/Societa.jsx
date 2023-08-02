@@ -12,7 +12,7 @@ const Societa = () => {
                 <li><b>Vice presidente:</b> Spisso Aniello</li>
                 <li><b>Segretario:</b> De Chiara Valeria</li>
                 <li><b>Allenatore under 19:</b> Spisso Gerardo</li>
-                <li><b>Allenatore under 17:</b> Di Giuseppe Alessio - Raffeale Aliberti</li>
+                <li><b>Allenatore under 17:</b> Raffeale Aliberti</li>
                 <li><b>Allenatore under 14-15:</b> Abundo Carlo - Raffeale Aliberti</li>
                 <li><b>Istruttori minibasket:</b> Rizzo Michele - Spisso Gerardo - Senatore Attilio - Iannone Antonio - Farina Davide - Apicella Giuseppe - Sforza Roberta - Napoli Daniele</li>
             </ul>
