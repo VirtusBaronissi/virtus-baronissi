@@ -15,7 +15,7 @@ const Corsi = () => {
     <div className={styles.container}> 
       <Head>
         <title>Virtus baronissi | Corsi</title>
-        <meta name="description" content="Corsi della virtus baronissi" />
+        <meta name="description" content="Corsi della Virtus Baronissi" />
         <link rel="icon" href="http://www.virtusbaronissi.altervista.org/varie/LOGO.jpg" />
       </Head>
     <Navbar />
