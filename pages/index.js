@@ -13,8 +13,8 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Virtus baronissi</title>
-        <meta name="description" content="Sito della virtus baronissi" />
+        <title>Virtus Baronissi</title>
+        <meta name="description" content="Sito della Polisportiva Dilettantistica Virtus Baronissi" />
         {/* <meta id="MetaKeyWords" HTTP-EQUIV="Keywords" content="virtus, baronissi, virtusbaronissi, palairno, irno, valle, basket, pallacanestro, mini, minibasket, polisportiva, dilettantistica, ginnastica, dolce, corsi, under13, under14, under15, under16, under17, under18, under19, esordienti, sport, gioco, palanandonobile, palestra, bambini, ragazzi, palanobile, palazzetto, impianto, sportivo" /> */}
         <meta
           name="keywords"
